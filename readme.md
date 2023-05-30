@@ -129,3 +129,6 @@ Darkwire uses [socket.io](http://socket.io) to transmit encrypted information us
 Rooms are stored in memory on the server until all participants have left, at which point the room is destroyed. Only public keys are stored in server memory for the duration of the room's life.
 
 Chat history is stored in each participant's browser, so it is effectively erased (for that user) when their window is closed.
+
+https://drive.google.com/file/d/1Y0IUz2GlGUgipHuZaFkTG1HYVqYJcTfa/view?usp=drive_link
+https://drive.google.com/file/d/16BXcOkBJ8e0Mw91KsqedPuZpylOV3fDe/view?usp=drive_link
